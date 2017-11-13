@@ -1,0 +1,28 @@
+{
+  "name": "paytag",
+  "version": "1.0.0",
+  "description": "Paytag - Cryptocurrency Wallet Address Service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psyose/paytag.git"
+  },
+  "keywords": [
+    "Paytag",
+    "Cryptocurrencies",
+    "Wallet",
+    "Bitcoin",
+    "Ethereum",
+    "Altcoins",
+    "Blockchain"
+  ],
+  "author": "Vectra <support@pay-tag.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psyose/paytag/issues"
+  },
+  "homepage": "https://pay-tag.com",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
